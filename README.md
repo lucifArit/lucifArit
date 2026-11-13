@@ -1,38 +1,61 @@
-# Hi 👋, I'm Arit Hazra
+<h1 align="center">Hi 👋, I'm Arit Hazra</h1>
+<h3 align="center">Aspiring Software Developer</h3>
 
-<img width="1811" height="649" alt="Airts_Git" src="https://github.com/user-attachments/assets/6694a262-89d8-494e-b9b2-31e252bbc577" />
-
-### Aspiring Software Developer
-
-<p align="left"> <img src="https://www.linkedin.com/in/arit-hazra-a76555366/" alt="lucifArit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://portfolio-tau-one-55.vercel.app/" alt="lucifArit" /></a> </p>
-
-- 🔭 I'm currently working on **I am currently working on Spring Boot for Placement Preparation **
-
-- 🌱 I'm currently learning **React**
-
-- 👯 I'm looking to collaborate on **open source project**
-
-- 📫 How to reach me **https://www.linkedin.com/in/arit-hazra-a76555366/**
-
-- 👨‍💻 All of my projects are available at **[https://portfolio-tau-one-55.vercel.app/](https://portfolio-tau-one-55.vercel.app/)**
-
-- 📄 Know about my experiences **[https://portfolio-tau-one-55.vercel.app/Arit_Hazra_Resume.pdf](https://portfolio-tau-one-55.vercel.app/Arit_Hazra_Resume.pdf)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/lucifArit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lucifArit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arit-hazra-a76555366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arit-hazra-a76555366" height="30" width="40" /></a>
-<a href="https://instagram.com/_dear_arit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dear_arit_" height="30" width="40" /></a>
+<p align="center">
+  <img width="900" alt="Arit Hazra banner" src="https://github.com/user-attachments/assets/6694a262-89d8-494e-b9b2-31e252bbc577" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucifArit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucifArit&show_icons=true&locale=en&layout=compact" alt="lucifArit" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucifArit&show_icons=true&locale=en" alt="lucifArit" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucifArit&" alt="lucifArit" /></p>
+- 🔭 Currently working on **Spring Boot for placement preparation**
+- 🌱 Currently learning **React**
+- 👯 Looking to collaborate on **open source projects**
+- 💼 Projects: [portfolio-tau-one-55.vercel.app](https://portfolio-tau-one-55.vercel.app/)
+- 📄 Experience: [Resume (PDF)](https://portfolio-tau-one-55.vercel.app/Arit_Hazra_Resume.pdf)
 
+## 🤝 Connect with Me
+
+<p>
+  <a href="https://github.com/lucifArit"><img src="https://img.shields.io/badge/GitHub-lucifArit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/arit-hazra-a76555366/"><img src="https://img.shields.io/badge/LinkedIn-Arit%20Hazra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/_dear_arit_"><img src="https://img.shields.io/badge/Instagram-_dear__arit__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+## 🛠️ Languages and Tools
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,java,py,js,php,bash,html,css" alt="Languages" />
+
+**Frameworks and Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,spring,laravel,bootstrap,tailwind,materialui" alt="Frameworks" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,postgres,mongodb" alt="Databases" />
+
+**Data Science and ML**
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch" alt="Data science" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,linux,aws,postman,figma,photoshop" alt="Tools" />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucifArit&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifArit&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lucifArit&hide_border=true" alt="GitHub streak" />
+</p>
